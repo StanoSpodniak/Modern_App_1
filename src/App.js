@@ -3,7 +3,7 @@ import React from 'react';
 import { Footer, Blog, Possibility, Features, WhatGPT3, Header} from './containers';
 import { CTA, Brand, Navbar } from './components';
 import './App.css';
-//React tutorial: https://www.youtube.com/watch?v=F627pKNUCVQ pokracovat od 41:00
+//React tutorial: https://www.youtube.com/watch?v=F627pKNUCVQ pokracovat od 1:06:00
 
 const App = () => {
   return (
